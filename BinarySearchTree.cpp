@@ -33,6 +33,11 @@ void insert()
         cout << "Masukan nilai: ";
         cin >> x;
 
+        // step 1: Allocate memory for the node 
+        Node *newNode = new Node();
+
+        
+
         
     
 
