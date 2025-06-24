@@ -1,5 +1,11 @@
 #include <iostream>
 using namespace std;
 
-c
+class Node 
+
+
+
+
+
+
 
