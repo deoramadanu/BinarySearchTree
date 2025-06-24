@@ -137,6 +137,15 @@ void postorder(Node *ptr)
     cout << ptr->info << " ";
 }
 
+bool isEmpty()
+{
+    // checks if the tree is empty
+    return ROOT == nullptr;
+}
+};
+
+
+
 
 
 
